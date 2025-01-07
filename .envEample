@@ -1,0 +1,12 @@
+# Server configuration
+PORT=
+
+# Database configuration
+MONGO_URI=
+
+# Environment configuration
+NODE_ENV=
+
+# Security keys
+JWT_KEY=
+BCRYPT_PAPER=
